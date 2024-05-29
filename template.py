@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-project_name="bike_sharing_demand_prediction"
+project_name="bike_sharing_demand"
 
 
 list_of_files = [
